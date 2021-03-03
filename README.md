@@ -1,3 +1,34 @@
+# Vue installation
+
+## install nvm
+```
+brew install nvm
+```
+## install node version 15
+```
+nvm install 15
+```
+## install vue cli
+```
+npm install -g @vue/cli
+```
+## create project
+```
+vue create hello
+```
+## move into the project
+```
+cd hello
+```
+## install packages
+```
+vue add electron-builder
+
+vue add vuetify
+
+vue add eslint
+```
+
 # hello
 
 ## Project setup
